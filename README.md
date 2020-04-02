@@ -1,4 +1,4 @@
-# awesome-covid-19-resources
+# awesome-covid-19-data-science
 Amazing models, datasets, APIs, websites, etc. for tackling COVID-19
 
 ## Websites
