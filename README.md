@@ -15,6 +15,7 @@ Amazing models, datasets, APIs, websites, etc. for tackling COVID-19. All resour
 * [The COVID Tracking Project](https://covidtracking.com/)
 * [COVID Chest X-ray dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 * [COVID-19 Tweets](https://arxiv.org/abs/2003.07372) ([Repo](https://github.com/echen102/COVID-19-TweetIDs))
+* [Project COVIEWED Coronavirus News Corpus](https://www.kaggle.com/trtmio/project-coviewed-subreddit-coronavirus-news-corpus)
 
 ## Dashboards
 
